@@ -1,0 +1,96 @@
+.qwe {
+    font-size: 60px;
+
+    color: black;
+    background-color: yellow;
+
+
+
+}
+
+header {
+    background-color: #D9D9D9;
+    height: 200px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+
+}
+
+body {
+    margin: 0;
+}
+
+.logo {
+    flex: 0.5;
+}
+
+.photos {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.oopp {
+    background-color: #7D7D7D;
+
+}
+
+.ghj {
+    color: #B4E32D;
+    box-shadow: 100px;
+    font-size: 30px;
+}
+
+.zero {
+    justify-content: center;
+    width: 1172px;
+    height: 530px;
+    background-color: #D9D9D9;
+    font-size: 25px;
+    text-emphasis-color: #797979;
+
+}
+.one
+{
+    width: 989px;
+    height: 72px;
+    background-color: #ABABAB;
+    align-items: center;
+    margin-left: 91px;
+    margin-top: 70px;
+
+
+}
+.two
+{
+    width: 989px;
+    height: 72px;
+    background-color: #ABABAB;
+    align-items: center;
+    margin-left: 91px;
+    margin-top: 70px;
+
+   
+}
+.three
+{
+    width: 989px;
+    height: 72px;
+    background-color: #ABABAB;
+    align-items: center;
+    margin-left: 91px;
+    margin-top: 70px;
+    
+}
+.four
+{
+    width: 989px;
+    height: 72px;
+    background-color: #ABABAB;
+    align-items: center;
+    margin-left: 91px;
+    margin-top: 70px;
+    
+}
